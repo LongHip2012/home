@@ -1,5 +1,5 @@
 > [!NOTE]
-> Developer By Genshin Hub , Lonely Hub, Hlong Hub And BubbleGum Hub!!
+> Developer Of FTGxLongHip Youtube Channel!!
 
 ---
 
@@ -7,7 +7,7 @@
   
 ## 🏠Introduction
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F70A&random=false&width=500&lines=Founder+%26+Ceo+Of+BubbleGum+Hub; Designer+Of+Roblox+Scripting;Currently+Working+As+A+Developer+For+BBG+Hub!;Owned+Of+FTG+Team" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F70A&random=false&width=500&lines=Founder+%26+Ceo+Of+FTGxHoangLong+Youtube+Channel; Designer+Of+Lonely+Hub;Currently+Working+As+A+Developer+For+LonelyHub!;Owned+Of+LonelyHub" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/LongHip2012">Nguyen Hoang Long</a></h3>
