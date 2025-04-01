@@ -52,7 +52,7 @@
 
 ## 🤓What I'm Doing
 
-- 🖥️ Working On Genshin Hub | Community
+- 🖥️ Working On FBG Team
 - 🤓 Learning Node.js & Html, Php, Lua, More...
 - ℹ️ My Info: Discord: longhiptg  | Facebook: https://www.facebook.com/profile.php?id=61564380581120&mibextid=ZbWKwL
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
